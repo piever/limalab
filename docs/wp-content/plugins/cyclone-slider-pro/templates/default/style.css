@@ -65,7 +65,7 @@
     margin-top:-22px;
     width:26px;
     height:44px;
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/default/images/sprite-arrows.png) no-repeat;
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/default/images/sprite-arrows.png) no-repeat;
 	opacity: 0;
 	-webkit-transition: all 0.5s ;
 	-moz-transition: all 0.5s ;
@@ -141,7 +141,7 @@
     bottom:0;
     width:100%;
     z-index:99;
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/default/images/bg-caption.png);
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/default/images/bg-caption.png);
     color:#fff;
     text-align: left;
 }

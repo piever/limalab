@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Lima Lab</title>
-	<atom:link href="http://piever.github.io/limalab/feed/" rel="self" type="application/rss+xml" />
-	<link>http://piever.github.io/limalab</link>
+	<atom:link href="https://piever.github.io/limalab/feed/" rel="self" type="application/rss+xml" />
+	<link>https://piever.github.io/limalab</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Jan 2018 15:33:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,9 +19,9 @@
 	
 
 <image>
-	<url>http://piever.github.io/limalab/wp-content/uploads/2018/01/lima_lab_page_logo-1-60x60.png</url>
+	<url>https://piever.github.io/limalab/wp-content/uploads/2018/01/lima_lab_page_logo-1-60x60.png</url>
 	<title>Lima Lab</title>
-	<link>http://piever.github.io/limalab</link>
+	<link>https://piever.github.io/limalab</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

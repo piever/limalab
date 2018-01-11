@@ -49,7 +49,7 @@
     width:36px;
     height:36px;
     text-indent:-99999px;
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-sprite-arrows.png) no-repeat;
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-sprite-arrows.png) no-repeat;
 }
 .cycloneslider-template-galleria:hover .cycloneslider-prev,
 .cycloneslider-template-galleria:hover .cycloneslider-next{
@@ -79,7 +79,7 @@
     height:30px;
     position:relative;
     z-index:900;
-    background:#fff url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-bg-bar.png) repeat-x bottom;
+    background:#fff url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-bg-bar.png) repeat-x bottom;
     color:#BBBBBB;
     font-size:11px;
     font-family:sans-serif;
@@ -89,7 +89,7 @@
     width:29px;
     height:29px;
     cursor:pointer;
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-sprite-play-pause.png) no-repeat 12px 10px;
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-sprite-play-pause.png) no-repeat 12px 10px;
 }
 .cycloneslider-template-galleria .cycloneslider-autoplay.pause{
     background-position: 11px -90px;
@@ -106,7 +106,7 @@
     width:29px;
     height:29px;
     cursor:pointer;
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-btn-thumbs.png) no-repeat 9px 10px;
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-btn-thumbs.png) no-repeat 9px 10px;
 }
 .cycloneslider-template-galleria .cycloneslider-thumbs:hover{
     background-color:#333;
@@ -115,7 +115,7 @@
     float:left;
     width:2px;
     height:29px;
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-bg-sep.png) repeat-y;
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-bg-sep.png) repeat-y;
 }
 .cycloneslider-template-galleria .cycloneslider-sep-right{
     float:none;
@@ -154,7 +154,7 @@
     right:20px;
 }
 .cycloneslider-template-galleria .cycloneslider-pager a {
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/sprite-slide-nav.png) no-repeat scroll 0 0 transparent;
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/sprite-slide-nav.png) no-repeat scroll 0 0 transparent;
     display: block;
     float: left;
     font-size: 0;
@@ -204,7 +204,7 @@
     width:20px;
     height:100%;
     cursor:pointer;
-    background: url(http://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-sprite-prevnext.png) no-repeat 8px center;
+    background: url(https://piever.github.io/limalab/wp-content/plugins/cyclone-slider-pro/templates/galleria/images/galleria-sprite-prevnext.png) no-repeat 8px center;
 }
 .cycloneslider-template-galleria .carousel-prev{
     left:0;
