@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: Home</title>
-	<atom:link href="http://dyogurt.github.io/limalab/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://dyogurt.github.io/limalab</link>
+	<atom:link href="http://piever.github.io/limalab/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>http://piever.github.io/limalab</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Jan 2018 16:13:13 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
